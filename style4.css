@@ -1,0 +1,39 @@
+#Sidenav a {
+    position: absolute; 
+    left: -83px; 
+    transition: 0.3s; 
+    padding: 15px; 
+    width: 100px; 
+    text-decoration: none; 
+    font-size: 20px;
+    color: white; 
+    border-radius: 0 5px 5px 0; 
+  }
+  
+  #Sidenav a:hover {
+    left: 0; 
+  }
+  
+  #Home {
+    top: 140px;
+    background-color: #04AA6D;
+  }
+  
+  #HTML {
+    top:200px;
+    background-color: #2196F3; 
+  }
+  
+  #CSS {
+    top: 260px;
+    background-color: #f44336; 
+  }
+  
+  #BS {
+    top: 320px;
+    background-color: #555 
+  }
+div{
+    float:left;
+    margin-left: 200px;
+}
